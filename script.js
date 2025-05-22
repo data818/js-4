@@ -62,7 +62,6 @@
 // თუ გრადუსი ნაკლებია 1 დან-30მდე:"ნორმალური ამინდია"
 
 let themp = 33;
-
 let hotWeather = 30;
 let coldWeather = 0;
 
